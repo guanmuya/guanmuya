@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340" role="img" aria-labelledby="title desc">
+  <title id="title">Guanmuya · Java and AI applications</title>
+  <desc id="desc">A dark cyan and violet developer banner with an abstract connected orbit.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101b2d"/><stop offset="1" stop-color="#10101e"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#66e6ed"/><stop offset="1" stop-color="#b29aff"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#6863cb" stop-opacity=".3"/><stop offset="1" stop-color="#6863cb" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#7b8cab" stroke-opacity=".07"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="998" height="338" rx="20" fill="url(#bg)" stroke="#30364d"/>
+  <rect x="1" y="1" width="998" height="338" rx="20" fill="url(#grid)"/>
+  <ellipse cx="808" cy="174" rx="220" ry="210" fill="url(#glow)"/>
+  <path d="M42 54h32" stroke="#66e6ed" stroke-width="3"/>
+  <text x="88" y="60" fill="#aac2d5" font-family="monospace" font-size="17" letter-spacing="3">DEVELOPER / EXPLORER</text>
+  <text x="42" y="160" fill="#f2f6fc" font-family="Arial, sans-serif" font-weight="700" font-size="76" letter-spacing="-3">guanmuya<tspan fill="#66e6ed">.</tspan></text>
+  <text x="45" y="209" fill="#c0cddd" font-family="Arial, sans-serif" font-size="25">Java × AI Applications</text>
+  <rect x="44" y="257" width="258" height="36" rx="18" fill="#142c38" stroke="#26505d"/>
+  <circle cx="63" cy="275" r="4" fill="#66e6ed"/>
+  <text x="77" y="281" fill="#94e9ee" font-family="monospace" font-size="16">LEARNING BY BUILDING</text>
+  <g transform="translate(795 168)" fill="none">
+    <circle r="105" stroke="#7796c5" stroke-opacity=".22" stroke-dasharray="3 8"/>
+    <ellipse rx="112" ry="45" transform="rotate(-35)" stroke="url(#accent)" stroke-width="1.5"/>
+    <ellipse rx="112" ry="45" transform="rotate(35)" stroke="#8994ec" stroke-width="1.5" stroke-opacity=".75"/>
+    <circle r="55" stroke="#7196b6" stroke-opacity=".22"/>
+    <path d="M-23-13l-17 13 17 13m46-26L40 0 23 13M8-24L-8 24" stroke="#c8d3ff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="91" cy="-54" r="6" fill="#77edf1"/>
+    <circle cx="-86" cy="-60" r="5" fill="#bb9fff"/>
+    <circle cx="-35" cy="95" r="3" fill="#94a6d8"/>
+  </g>
+  <path d="M44 325H956" stroke="url(#accent)" stroke-opacity=".5"/>
+</svg>
