@@ -9,6 +9,6 @@
 
 Java · Spring AI · RAG · Agents
 
-[成长手记 ↗](https://guanmuya-growth-journal.nan0646797183.chatgpt.site) · QQ 1121390284
+[成长手记 ↗](https://guanmuya-growth-journal.nan0646797183.chatgpt.site) · gmail email: qupengju.personal@gamil.com
 
 <sub>AI 粉丝创作，非官方。<a href="./repo/ART-CREDITS.md">素材说明</a> · <a href="./repo/assets/squad-static.png">静态版</a></sub>
